@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "examenreact",
+    "slug": "examenreact",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/imageface.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/imageface.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/imageface.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/imageface.png"
+    }
+  }
+}
